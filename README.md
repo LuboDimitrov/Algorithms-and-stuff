@@ -1,8 +1,8 @@
 # Algorithms implemented:
 
 ## 1. Tree Searches
-### 1.1 Breadth first search (BFS)
-### 1.2 Breadth first search (BFS)
+### 1.1 Breadth-first search (BFS)
+### 1.2 Depth-first search (DFS)
 
 ## 2. Binary Search
 
